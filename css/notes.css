@@ -115,6 +115,9 @@ div.post-categories {
 
 /* Start: General Misc CSS */
 
+.fa {
+    color: black;
+}
 .social-icons a {
     margin-right: 3px;
     text-decoration: none;
