@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NG&#39;s blog</title>
-    <link>https://nareshganesan.github.io/</link>
-    <description>Recent content on NG&#39;s blog</description>
+    <title>Server on NG&#39;s blog</title>
+    <link>https://nareshganesan.github.io/categories/server/</link>
+    <description>Recent content in Server on NG&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Jan 2016 05:34:27 -0800</lastBuildDate>
-    <atom:link href="https://nareshganesan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nareshganesan.github.io/categories/server/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tornado</title>
@@ -28,33 +28,6 @@ bottleneck with handling huge traffic. I might sound, too cynical but this is so
 
 &lt;p&gt;With the advent of Web 2.0, data is exploding in higher order polynomial terms which I can&amp;rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
 Tornado is a next gen networking library to test and play.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First post using Hugo</title>
-      <link>https://nareshganesan.github.io/post/First-post/</link>
-      <pubDate>Thu, 21 Jan 2016 18:52:10 -0800</pubDate>
-      
-      <guid>https://nareshganesan.github.io/post/First-post/</guid>
-      <description>&lt;p&gt;This is my first blog post using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, the new static site generator.  I&amp;rsquo;ve always to wanted to start blog to share and learn.
-Its never late than now. :) Hugo is really neat, simple and easy to install. Learning curve is easy to moderate,
-depends on the person. I will write more about the Hugo in my future posts.&lt;/p&gt;
-
-&lt;p&gt;Currently, I&amp;rsquo;m in the process of building the blog template, so will be making more changes to the template.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://nareshganesan.github.io/about/</link>
-      <pubDate>Tue, 19 Jan 2016 03:43:32 -0800</pubDate>
-      
-      <guid>https://nareshganesan.github.io/about/</guid>
-      <description>&lt;p&gt;Hi There, My name is &lt;a href=&#34;https://github.com/nareshganesan&#34;&gt;Naresh Ganesan&lt;/a&gt;, this is my personal blog site, where I would like share and learn in this nook of web.
-I&amp;rsquo;m a Hobbyist software developer passionate about building new tools. Feel free to shoot me an &lt;a href=&#34;mailto:nareshkumarganesan@gmail.com&#34;&gt;email&lt;/a&gt; me.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to build this blog and if you have any questions, leave a comment below, I will try to get back to you at the earliest.&lt;/p&gt;
 </description>
     </item>
     

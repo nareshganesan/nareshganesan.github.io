@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>First post using Hugo</title>
+  <title>Tornado</title>
   
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans|Ubuntu">
   <link rel="stylesheet" href="https://nareshganesan.github.io/css/notes.css">
@@ -51,31 +51,37 @@
 
 
 <div class="main-content" >
-    <div class="title" > <h1>First post using Hugo</h1> </div>
+    <div class="title" > <h1>Tornado</h1> </div>
     <div class="container" >
         <p class="post-details" >
-            <span class="posted-date"> Thu, Jan 21, 2016 </span> 
+            <span class="posted-date"> Sat, Jan 23, 2016 </span> 
             <span class="post-categories"> 
                 
                 <i class="fa fa-tags"></i>
                 (
                     
-                    <a class="label" href="https://nareshganesan.github.io/categories/blog">blog</a>
+                    <a class="label" href="https://nareshganesan.github.io/categories/tornado">Tornado</a>
                     
-                    <a class="label" href="https://nareshganesan.github.io/categories/hugo">Hugo</a>
-                    
-                    <a class="label" href="https://nareshganesan.github.io/categories/go">Go</a>
+                    <a class="label" href="https://nareshganesan.github.io/categories/server">Server</a>
                     
                 )
                             
             </span>
         </p>
         <div class="content" > 
-            <p>This is my first blog post using <a href="https://gohugo.io/">Hugo</a>, the new static site generator.  I&rsquo;ve always to wanted to start blog to share and learn.
-Its never late than now. :) Hugo is really neat, simple and easy to install. Learning curve is easy to moderate,
-depends on the person. I will write more about the Hugo in my future posts.</p>
+            <p>Tornado is a asynchronous non blocking network I/O web framework / library. Tornado is really useful for applications which require a long-lived connection to each user.
+It can easily serve upto Ten thousands of open connection at a time. It can also comes bundled with a HTTP server which makes it perfect for a web server which could
+easily serve tens of thousands of connections. This really a huge deal, if you have dealt with synchronous blocking servers. In a typical synchrous web servers, the
+client has to wait for the request to complete and the server is blocked until the response is sent back to client.</p>
 
-<p>Currently, I&rsquo;m in the process of building the blog template, so will be making more changes to the template.</p>
+<p>As the number of request to synchronous servers increase, the number of blocked requests waiting for a reqponse increases. This makes the web servers
+overloaded with requests and eventually making them crash. In traditional web application using synchronous web servers, companies make another
+load balancing layer to route the request to different servers based on the servers traffic. The crucial point to note here is the architecture of the
+web application is made to accomodate more traffic by adding more web servers coupled with load balancers. Here, the traditional synchronous servers have some serious
+bottleneck with handling huge traffic. I might sound, too cynical but this is something to note.</p>
+
+<p>With the advent of Web 2.0, data is exploding in higher order polynomial terms which I can&rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
+Tornado is a next gen networking library to test and play.</p>
 
         </div>
     </div>
@@ -83,9 +89,9 @@ depends on the person. I will write more about the Hugo in my future posts.</p>
         <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'nareshkumarganesan';
-    var disqus_identifier = 'https:\/\/nareshganesan.github.io\/post\/First-post\/';
-    var disqus_title = 'First post using Hugo';
-    var disqus_url = 'https:\/\/nareshganesan.github.io\/post\/First-post\/';
+    var disqus_identifier = 'https:\/\/nareshganesan.github.io\/post\/Tornado\/';
+    var disqus_title = 'Tornado';
+    var disqus_url = 'https:\/\/nareshganesan.github.io\/post\/Tornado\/';
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

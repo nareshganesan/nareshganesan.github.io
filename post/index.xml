@@ -6,8 +6,30 @@
     <description>Recent content in Posts on NG&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2016 18:52:10 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jan 2016 05:34:27 -0800</lastBuildDate>
     <atom:link href="https://nareshganesan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tornado</title>
+      <link>https://nareshganesan.github.io/post/Tornado/</link>
+      <pubDate>Sat, 23 Jan 2016 05:34:27 -0800</pubDate>
+      
+      <guid>https://nareshganesan.github.io/post/Tornado/</guid>
+      <description>&lt;p&gt;Tornado is a asynchronous non blocking network I/O web framework / library. Tornado is really useful for applications which require a long-lived connection to each user.
+It can easily serve upto Ten thousands of open connection at a time. It can also comes bundled with a HTTP server which makes it perfect for a web server which could
+easily serve tens of thousands of connections. This really a huge deal, if you have dealt with synchronous blocking servers. In a typical synchrous web servers, the
+client has to wait for the request to complete and the server is blocked until the response is sent back to client.&lt;/p&gt;
+
+&lt;p&gt;As the number of request to synchronous servers increase, the number of blocked requests waiting for a reqponse increases. This makes the web servers
+overloaded with requests and eventually making them crash. In traditional web application using synchronous web servers, companies make another
+load balancing layer to route the request to different servers based on the servers traffic. The crucial point to note here is the architecture of the
+web application is made to accomodate more traffic by adding more web servers coupled with load balancers. Here, the traditional synchronous servers have some serious
+bottleneck with handling huge traffic. I might sound, too cynical but this is something to note.&lt;/p&gt;
+
+&lt;p&gt;With the advent of Web 2.0, data is exploding in higher order polynomial terms which I can&amp;rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
+Tornado is a next gen networking library to test and play.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First post using Hugo</title>
