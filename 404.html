@@ -1,12 +1,32 @@
-  {{ partial "header.html" . }}
-  {{ partial "sidebar.html" . }}
+<html>
+<head>
+<style>
+
+.container {
+    height: 10em;
+    position: relative
+}
+
+.error-page {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+</style>
+</head>
+<body style="color: #4897d8; ">
   <div class="main-content" >
-      <div class="title" > <h2>Page not found.</h2> </div>
       <div class="container" >
           <div class="error-page" >
+              <div class="title" > <h2>Page not found.</h2> </div>
               Oops, looks like you are lost. <br/>
               The page you are trying to view does not exist.
           </div>
       </div>
   </div>
-{{ partial "footer.html" . }}
+</body>
+</html>
