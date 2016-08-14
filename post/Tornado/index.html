@@ -14,7 +14,7 @@
 <body>
 
 <div class="sidebar">
-    <h1> <a href="https://nareshganesan.github.io" > NG&#39;s blog </a> </h1>
+    <h1> <a href="https://nareshganesan.github.io" > ng&#39;s blog </a> </h1>
     <label> Life is beautiful :) </label>    
     <h3> Menu </h3>
     <ul class="sidebar-menu" >
@@ -30,7 +30,7 @@
         
         <li> <a href="/categories/blog" > blog </a> </li>
         
-        <li> <a href="/categories/go" > go </a> </li>
+        <li> <a href="/categories/cv" > cv </a> </li>
         
         <li> <a href="/categories/hugo" > hugo </a> </li>
         
@@ -74,7 +74,7 @@
         </p>
         <div class="content" > 
             <p>Tornado is a asynchronous non blocking network I/O web framework / library. Tornado is really useful for applications which require a long-lived connection to each user.
-It can easily serve upto Ten thousands of open connection at a time. It can also comes bundled with a HTTP server which makes it perfect for a web server which could
+It can easily serve upto Ten&rsquo;s of thousands of open connection at a time. It can also comes bundled with a HTTP server which makes it perfect for a web server which could
 easily serve tens of thousands of connections. This really a huge deal, if you have dealt with synchronous blocking servers. In a typical synchrous web servers, the
 client has to wait for the request to complete and the server is blocked until the response is sent back to client.</p>
 
@@ -82,31 +82,47 @@ client has to wait for the request to complete and the server is blocked until t
 overloaded with requests and eventually making them crash. In traditional web application using synchronous web servers, companies make another
 load balancing layer to route the request to different servers based on the servers traffic. The crucial point to note here is the architecture of the
 web application is made to accomodate more traffic by adding more web servers coupled with load balancers. Here, the traditional synchronous servers have some serious
-bottleneck with handling huge traffic. I might sound, too cynical but this is something to note.</p>
+bottleneck with handling huge traffic.</p>
 
-<p>With the advent of Web 2.0, data is exploding in higher order polynomial terms which I can&rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
+<p>With the advent of Web 3.0, data is exploding in higher order polynomial terms which I can&rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
 Tornado is a next gen networking library to test and play.</p>
 
         </div>
     </div>
     <div class="comments-container" >
-        <div id="disqus_thread"></div>
+        
+        <a href="#" id="disqus_load" onclick="return loadDisqus();">Add / View Comments</a>
+<div id="disqus_thread"></div>
+
 <script type="text/javascript">
-    var disqus_shortname = 'nareshkumarganesan';
-    var disqus_identifier = 'https:\/\/nareshganesan.github.io\/post\/Tornado\/';
-    var disqus_title = 'Tornado';
-    var disqus_url = 'https:\/\/nareshganesan.github.io\/post\/Tornado\/';
+  var disqus_shortname = "nareshkumarganesan";
+
+  if (window.location.href.indexOf("localhost") > -1) {
+        document.getElementById('disqus_load').style.display = "none";
+        document.getElementById('disqus_thread').style.display = "none";
+        
+    }
+
+  function loadDisqus() {
+
+    if (window.location.hostname == "localhost")
+        return;
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
+
+    
+    document.getElementById('disqus_load').style.display = 'none';
+    
+  }
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
 </div>
+
     
 </body>
 </html>

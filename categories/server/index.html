@@ -14,7 +14,7 @@
 <body>
 
   <div class="sidebar">
-    <h1> <a href="https://nareshganesan.github.io" > NG&#39;s blog </a> </h1>
+    <h1> <a href="https://nareshganesan.github.io" > ng&#39;s blog </a> </h1>
     <label> Life is beautiful :) </label>    
     <h3> Menu </h3>
     <ul class="sidebar-menu" >
@@ -30,7 +30,7 @@
         
         <li> <a href="/categories/blog" > blog </a> </li>
         
-        <li> <a href="/categories/go" > go </a> </li>
+        <li> <a href="/categories/cv" > cv </a> </li>
         
         <li> <a href="/categories/hugo" > hugo </a> </li>
         
@@ -83,7 +83,40 @@
         
     
     </div>
+    <div class="comments-container" >
+        
+        <a href="#" id="disqus_load" onclick="return loadDisqus();">Add / View Comments</a>
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+  var disqus_shortname = "nareshkumarganesan";
+
+  if (window.location.href.indexOf("localhost") > -1) {
+        document.getElementById('disqus_load').style.display = "none";
+        document.getElementById('disqus_thread').style.display = "none";
+        
+    }
+
+  function loadDisqus() {
+
+    if (window.location.hostname == "localhost")
+        return;
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    
+    document.getElementById('disqus_load').style.display = 'none';
+    
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
 </div>
+  
       
 </body>
 </html>

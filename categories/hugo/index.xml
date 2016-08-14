@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on NG&#39;s blog</title>
+    <title>Hugo on ng&#39;s blog</title>
     <link>https://nareshganesan.github.io/categories/hugo/</link>
-    <description>Recent content in Hugo on NG&#39;s blog</description>
+    <description>Recent content in Hugo on ng&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2016 18:52:10 -0800</lastBuildDate>
@@ -15,7 +15,7 @@
       <pubDate>Thu, 21 Jan 2016 18:52:10 -0800</pubDate>
       
       <guid>https://nareshganesan.github.io/post/First-post/</guid>
-      <description>&lt;p&gt;This is my first blog post using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, the new static site generator.  I&amp;rsquo;ve always to wanted to start blog to share and learn.
+      <description>&lt;p&gt;This is my first blog post using &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, the new static site generator.  I&amp;rsquo;ve always to wanted to start blog to share and learn.
 Its never late than now. :) Hugo is really neat, simple and easy to install. Learning curve is easy to moderate,
 depends on the person. I will write more about the Hugo in my future posts.&lt;/p&gt;
 

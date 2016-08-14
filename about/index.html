@@ -14,7 +14,7 @@
 <body>
 
 <div class="sidebar">
-    <h1> <a href="https://nareshganesan.github.io" > NG&#39;s blog </a> </h1>
+    <h1> <a href="https://nareshganesan.github.io" > ng&#39;s blog </a> </h1>
     <label> Life is beautiful :) </label>    
     <h3> Menu </h3>
     <ul class="sidebar-menu" >
@@ -30,7 +30,7 @@
         
         <li> <a href="/categories/blog" > blog </a> </li>
         
-        <li> <a href="/categories/go" > go </a> </li>
+        <li> <a href="/categories/cv" > cv </a> </li>
         
         <li> <a href="/categories/hugo" > hugo </a> </li>
         
@@ -71,31 +71,47 @@
             </span>
         </p>
         <div class="content" > 
-            <p>Hi There, My name is <a href="https://github.com/nareshganesan">Naresh Ganesan</a>, this is my personal blog site, where I would like share and learn in this nook of web.
-I&rsquo;m a Hobbyist software developer passionate about building new tools. Feel free to shoot me an <a href="mailto:nareshkumarganesan@gmail.com">email</a> me.</p>
+            <p>Hi There, My name is <a href="https://github.com/nareshganesan" target="_blank">Naresh Ganesan</a>, this is my personal blog, where I would like share and learn in this nook of web.
+I&rsquo;m a Hobbyist software developer passionate about building new tools. Feel free to shoot me an <a href="mailto:nareshkumarganesan@gmail.com" target="_blank">email</a>.</p>
 
-<p>I&rsquo;m using <a href="https://gohugo.io">Hugo</a> to build this blog and if you have any questions, leave a comment below, I will try to get back to you at the earliest.</p>
+<p>I&rsquo;m using <a href="https://gohugo.io" target="_blank">Hugo</a> to build this blog and if you have any questions, leave a comment below, I will try to get back to you at the earliest.</p>
 
         </div>
     </div>
     <div class="comments-container" >
-        <div id="disqus_thread"></div>
+        
+        <a href="#" id="disqus_load" onclick="return loadDisqus();">Add / View Comments</a>
+<div id="disqus_thread"></div>
+
 <script type="text/javascript">
-    var disqus_shortname = 'nareshkumarganesan';
-    var disqus_identifier = 'https:\/\/nareshganesan.github.io\/about\/';
-    var disqus_title = 'About me';
-    var disqus_url = 'https:\/\/nareshganesan.github.io\/about\/';
+  var disqus_shortname = "nareshkumarganesan";
+
+  if (window.location.href.indexOf("localhost") > -1) {
+        document.getElementById('disqus_load').style.display = "none";
+        document.getElementById('disqus_thread').style.display = "none";
+        
+    }
+
+  function loadDisqus() {
+
+    if (window.location.hostname == "localhost")
+        return;
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
+
+    
+    document.getElementById('disqus_load').style.display = 'none';
+    
+  }
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
 </div>
+
     
 </body>
 </html>

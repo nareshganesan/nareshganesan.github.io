@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cv on ng&#39;s blog</title>
+    <link>https://nareshganesan.github.io/categories/cv/</link>
+    <description>Recent content in Cv on ng&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2016 15:46:50 +0530</lastBuildDate>
+    <atom:link href="https://nareshganesan.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1000Lookz - Virtual Tryon</title>
+      <link>https://nareshganesan.github.io/post/1000Lookz/</link>
+      <pubDate>Sun, 14 Aug 2016 15:46:50 +0530</pubDate>
+      
+      <guid>https://nareshganesan.github.io/post/1000Lookz/</guid>
+      <description>
+
+&lt;p&gt;Its been couple of months since I started working for 1000Lookz/VDime.
+The journey has been really wonderful so far. Everyday I get to work on cool technologies.
+Python has been the bread and butter @ &lt;a href=&#34;https://www.1000lookz.com/&#34; target=&#34;_blank&#34;&gt;1000Lookz&lt;/a&gt;.
+We are company that specialises in CV, machine learning and Deep Learning.
+Some of the day to day techology we use @ &lt;a href=&#34;https://www.1000lookz.com/&#34; target=&#34;_blank&#34;&gt;1000Lookz&lt;/a&gt; have been listed below.&lt;/p&gt;
+
+&lt;h3 id=&#34;technologies:192998f09a0e3f2eb93de662239c080a&#34;&gt;Technologies&lt;/h3&gt;
+
+&lt;p&gt;DL&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Caffe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CV&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dlib&lt;/li&gt;
+&lt;li&gt;OpenCV&lt;/li&gt;
+&lt;li&gt;Tesseract&lt;/li&gt;
+&lt;li&gt;Ocropy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are a virtual makeover company specialising on virtual tryon.
+Some of our current solutions include Tryon make over, Tryon Eyewear, Tryon Jewelry and much more to come.&lt;/p&gt;
+
+&lt;p&gt;We are also working on our properitory OCR products for documents, Bills, Forms and Certificates.&lt;/p&gt;
+
+&lt;p&gt;Fun part is the research we do everyday to solve some  cool machine learning problems.
+I&amp;rsquo;m not good at blogging so please bear with me.
+I will be adding more about 1000Lookz and the technology frequently.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to ask any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
