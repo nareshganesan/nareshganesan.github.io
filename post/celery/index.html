@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tornado</title>
+  <title>celery</title>
   
   <meta charset="UTF-8">
   <meta name="generator" content="Hugo 0.15" />
@@ -59,37 +59,31 @@
 
 
 <div class="main-content" >
-    <div class="title" > <h1>Tornado</h1> </div>
+    <div class="title" > <h1>celery</h1> </div>
     <div class="container" >
         <p class="post-details" >
-            <span class="posted-date"> Sat, Jan 23, 2016 </span> 
+            <span class="posted-date"> Tue, Aug 16, 2016 </span> 
             <span class="post-categories"> 
                 
                 <i class="fa fa-tags"></i>
                 (
                     
-                    <a class="label" href="https://nareshganesan.github.io/categories/tornado">Tornado</a>
+                    <a class="label" href="https://nareshganesan.github.io/categories/celery">celery</a>
                     
-                    <a class="label" href="https://nareshganesan.github.io/categories/server">Server</a>
+                    <a class="label" href="https://nareshganesan.github.io/categories/distributed-systems">distributed systems</a>
                     
                 )
                             
             </span>
         </p>
         <div class="content" > 
-            <p>Tornado is a asynchronous non blocking network I/O web framework / library. Tornado is really useful for applications which require a long-lived connection to each user.
-It can easily serve upto Ten&rsquo;s of thousands of open connection at a time. It can also comes bundled with a HTTP server which makes it perfect for a web server which could
-easily serve tens of thousands of connections. This really a huge deal, if you have dealt with synchronous blocking servers. In a typical synchrous web servers, the
-client has to wait for the request to complete and the server is blocked until the response is sent back to client.</p>
+            <p>Recently I came across this distributed task queue &lsquo;Celery&rsquo;, which we started using for some our heavy lifting jobs.
+Celery does the job well, if you get your head around it.
+Configuring celery is really simple (caveat doc&rsquo;s are sparse).
+Celery works using broker and backend, the broker keeps track of the tasks in the backend.
+Broker can be RabbitMQ or Redis or which ever you prefer.</p>
 
-<p>As the number of request to synchronous servers increase, the number of blocked requests waiting for a response increases. This makes the web servers
-overloaded with requests and eventually making them crash. In traditional web application using synchronous web servers, companies make another
-load balancing layer to route the request to different servers based on the servers traffic. The crucial point to note here is the architecture of the
-web application is made to accomodate more traffic by adding more web servers coupled with load balancers. Here, the traditional synchronous servers have some serious
-bottleneck with handling huge traffic.</p>
-
-<p>With the advent of Web 3.0, data is exploding in higher order polynomial terms which I can&rsquo;t imagine. The need to handle more web traffic would be a basic requirement.
-Tornado is a next gen networking library to test and play.</p>
+<p>I&rsquo;ll organise my thoughts about celery and post a detailed note about it soon.</p>
 
         </div>
     </div>

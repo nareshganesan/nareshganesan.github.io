@@ -6,8 +6,24 @@
     <description>Recent content on ng&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Aug 2016 15:46:50 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2016 00:40:22 +0530</lastBuildDate>
     <atom:link href="https://nareshganesan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>celery</title>
+      <link>https://nareshganesan.github.io/post/celery/</link>
+      <pubDate>Tue, 16 Aug 2016 00:40:22 +0530</pubDate>
+      
+      <guid>https://nareshganesan.github.io/post/celery/</guid>
+      <description>&lt;p&gt;Recently I came across this distributed task queue &amp;lsquo;Celery&amp;rsquo;, which we started using for some our heavy lifting jobs.
+Celery does the job well, if you get your head around it.
+Configuring celery is really simple (caveat doc&amp;rsquo;s are sparse).
+Celery works using broker and backend, the broker keeps track of the tasks in the backend.
+Broker can be RabbitMQ or Redis or which ever you prefer.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll organise my thoughts about celery and post a detailed note about it soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1000Lookz - Virtual Tryon</title>
