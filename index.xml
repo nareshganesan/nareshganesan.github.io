@@ -25,20 +25,18 @@ Some of the day to day techology we use @ &lt;a href=&#34;https://www.1000lookz.
 
 &lt;h3 id=&#34;technologies:192998f09a0e3f2eb93de662239c080a&#34;&gt;Technologies&lt;/h3&gt;
 
-&lt;p&gt;DL&lt;/p&gt;
+&lt;p&gt;DL
+- Caffe&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Caffe&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;CV
+- Dlib
+- OpenCV
+- Tesseract
+- Ocropy&lt;/p&gt;
 
-&lt;p&gt;CV&lt;/p&gt;
+&lt;h3 id=&#34;tools:192998f09a0e3f2eb93de662239c080a&#34;&gt;Tools&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Dlib&lt;/li&gt;
-&lt;li&gt;OpenCV&lt;/li&gt;
-&lt;li&gt;Tesseract&lt;/li&gt;
-&lt;li&gt;Ocropy&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Celery, Tornado, Flask&lt;/p&gt;
 
 &lt;p&gt;We are a virtual makeover company specialising on virtual tryon.
 Some of our current solutions include Tryon make over, Tryon Eyewear, Tryon Jewelry and much more to come.&lt;/p&gt;
