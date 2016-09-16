@@ -6,8 +6,28 @@
     <description>Recent content in Posts on ng&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2016 00:40:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2016 20:45:40 +0530</lastBuildDate>
     <atom:link href="https://nareshganesan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inspiring movie/documentary list</title>
+      <link>https://nareshganesan.github.io/post/personal/inspiring_videos/</link>
+      <pubDate>Fri, 16 Sep 2016 20:45:40 +0530</pubDate>
+      
+      <guid>https://nareshganesan.github.io/post/personal/inspiring_videos/</guid>
+      <description>&lt;p&gt;Lets create a list of my inspiring movies/documentaries list. Whenever I feel low, pick a random video from the list and I pick something new from these movies. I&amp;rsquo;m sure everyone has something to get a bite of it. This is not a comprehensive list but a just of the top of my mind. I will try to keep frequently update.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coach_Carter&#34; target=&#34;_blank&#34;&gt;Coach Carter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Good_Will_Hunting&#34; target=&#34;_blank&#34;&gt;Good Will Hunting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt3904986/&#34; target=&#34;_blank&#34;&gt;Hello I am David&lt;/a&gt; / &lt;a href=&#34;https://en.wikipedia.org/wiki/Shine_(film)&#34; target=&#34;_blank&#34;&gt;Shine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt2313306/&#34; target=&#34;_blank&#34;&gt;The Real Miyagi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Top_Spin_(film)&#34; target=&#34;_blank&#34;&gt;Top spin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Moneyball_(film)&#34; target=&#34;_blank&#34;&gt;Moneyball&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Terminal&#34; target=&#34;_blank&#34;&gt;The Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>celery</title>
@@ -39,7 +59,7 @@ Python has been the bread and butter @ &lt;a href=&#34;https://www.1000lookz.com
 We are company that specialises in CV, machine learning and Deep Learning.
 Some of the day to day techology we use @ &lt;a href=&#34;https://www.1000lookz.com/&#34; target=&#34;_blank&#34;&gt;1000Lookz&lt;/a&gt; have been listed below.&lt;/p&gt;
 
-&lt;h3 id=&#34;technologies:192998f09a0e3f2eb93de662239c080a&#34;&gt;Technologies&lt;/h3&gt;
+&lt;h3 id=&#34;technologies&#34;&gt;Technologies&lt;/h3&gt;
 
 &lt;p&gt;DL
 - Caffe&lt;/p&gt;
@@ -47,7 +67,7 @@ Some of the day to day techology we use @ &lt;a href=&#34;https://www.1000lookz.
 &lt;p&gt;CV
 - Dlib, OpenCV, Tesseract, Ocropy&lt;/p&gt;
 
-&lt;h3 id=&#34;tools:192998f09a0e3f2eb93de662239c080a&#34;&gt;Tools&lt;/h3&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
 
 &lt;p&gt;Celery, Tornado, Flask&lt;/p&gt;
 
