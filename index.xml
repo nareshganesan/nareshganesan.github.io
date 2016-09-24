@@ -6,8 +6,51 @@
     <description>Recent content on ng&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2016 20:45:40 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 17 Sep 2016 03:30:13 +0530</lastBuildDate>
     <atom:link href="https://nareshganesan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>todos</title>
+      <link>https://nareshganesan.github.io/post/todos/</link>
+      <pubDate>Sat, 17 Sep 2016 03:30:13 +0530</pubDate>
+      
+      <guid>https://nareshganesan.github.io/post/todos/</guid>
+      <description>
+
+&lt;p&gt;My TODO page, where I like to use add my immediate and intermediate action items.&lt;/p&gt;
+
+&lt;h4 id=&#34;basic-computing-courses&#34;&gt;Basic computing courses&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-computer-science--cs101&#34; target=&#34;_blank&#34;&gt;Intro CS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-statistics--st101&#34; target=&#34;_blank&#34;&gt;Intro Stats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-algorithms--cs215&#34; target=&#34;_blank&#34;&gt;Intro Algo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-descriptive-statistics--ud827&#34; target=&#34;_blank&#34;&gt;Descriptive Stats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-inferential-statistics--ud201&#34; target=&#34;_blank&#34;&gt;Inferential Stats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/cou;rse/intro-to-data-analysis--ud170&#34; target=&#34;_blank&#34;&gt;Intro Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/data-visualization-and-d3js--ud507&#34; target=&#34;_blank&#34;&gt;Data Visualisations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;basic-math-courses&#34;&gt;Basic math courses&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/linear-algebra-refresher-course--ud953&#34; target=&#34;_blank&#34;&gt;Linear Algebra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x#!&#34; target=&#34;_blank&#34;&gt;Computational Probability and Information theory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/machine-learning-supervised-learning--ud675&#34; target=&#34;_blank&#34;&gt;Supervised Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741&#34; target=&#34;_blank&#34;&gt;Unsupervised Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820&#34; target=&#34;_blank&#34;&gt;Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/deep-learning--ud730&#34; target=&#34;_blank&#34;&gt;Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34; target=&#34;_blank&#34;&gt;DL - cs231&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs224d.stanford.edu/&#34; target=&#34;_blank&#34;&gt;DL - NLP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-artificial-intelligence--cs271&#34; target=&#34;_blank&#34;&gt;Intro AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Inspiring movie/documentary list</title>
@@ -25,6 +68,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Top_Spin_(film)&#34; target=&#34;_blank&#34;&gt;Top spin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Moneyball_(film)&#34; target=&#34;_blank&#34;&gt;Moneyball&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Terminal&#34; target=&#34;_blank&#34;&gt;The Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy&#34; target=&#34;_blank&#34;&gt;The Internet&amp;rsquo;s Own Boy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
