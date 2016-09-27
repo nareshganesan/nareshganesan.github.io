@@ -10,19 +10,22 @@
     <atom:link href="https://nareshganesan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>todos</title>
-      <link>https://nareshganesan.github.io/post/todos/</link>
+      <title>Favorite online courses</title>
+      <link>https://nareshganesan.github.io/post/fav_online_courses/</link>
       <pubDate>Sat, 17 Sep 2016 03:30:13 +0530</pubDate>
       
-      <guid>https://nareshganesan.github.io/post/todos/</guid>
+      <guid>https://nareshganesan.github.io/post/fav_online_courses/</guid>
       <description>
 
-&lt;p&gt;My TODO page, where I like to use add my immediate and intermediate action items.&lt;/p&gt;
+&lt;p&gt;Initially I started this page, to keep track of some of the courses which I&amp;rsquo;ve taken or planning to enroll.
+But the post title &amp;lsquo;Todo&amp;rsquo;s&amp;rsquo; do not make any sense. I&amp;rsquo;m changing the title favorite online courses.&lt;/p&gt;
 
 &lt;h4 id=&#34;basic-computing-courses&#34;&gt;Basic computing courses&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-computer-science--cs101&#34; target=&#34;_blank&#34;&gt;Intro CS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8#!&#34; target=&#34;_blank&#34;&gt;Intro CS with Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-4&#34; target=&#34;_blank&#34;&gt;Computational thinking&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-statistics--st101&#34; target=&#34;_blank&#34;&gt;Intro Stats&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-algorithms--cs215&#34; target=&#34;_blank&#34;&gt;Intro Algo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/intro-to-descriptive-statistics--ud827&#34; target=&#34;_blank&#34;&gt;Descriptive Stats&lt;/a&gt;&lt;/li&gt;
